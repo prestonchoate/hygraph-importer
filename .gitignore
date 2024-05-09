@@ -25,5 +25,9 @@
 !public/js/*
 # !Makefile
 
+!.goreleaser.yaml
+
 # ...even if they are in subdirectories
 !*/
+
+dist/
